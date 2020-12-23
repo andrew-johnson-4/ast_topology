@@ -1,0 +1,11 @@
+[package]
+name = "ast_topology"
+version = "0.0.1"
+authors = ["Andrew <andrew@subarctic.org>"]
+license = "MIT OR Apache-2.0"
+description = "Differentiable programming for Rust"
+edition = "2018"
+readme = "README.md"
+repository = "https://github.com/andrew-johnson-4/ast_topology"
+documentation = "https://docs.rs/ast_topology/"
+keywords = ["differentiable","machine","learning","artificial","intelligience"]
