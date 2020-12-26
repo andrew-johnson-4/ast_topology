@@ -10,6 +10,17 @@ Differentiable programming for Rust
 
 This package is no more than sugar for existing Rust autograd libraries.
 
+```rust
+autograd!{
+   let x; let y;
+   let z = 2.*x*x + 3.*y + 1.;
+
+   assert_eq!(grad (dz/dy), 3.0);
+   assert_eq!(grad [x=2.] (dz/dx), 8.0);
+   assert_eq!(grad (ddz/dx), 4.0);
+};
+```
+
 # Contributions
 
 Unless you explicitly state otherwise, any contribution intentionally submitted
