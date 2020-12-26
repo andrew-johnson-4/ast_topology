@@ -1,6 +1,6 @@
 [package]
 name = "ast_topology"
-version = "0.0.3"
+version = "0.0.4"
 authors = ["Andrew <andrew@subarctic.org>"]
 license = "MIT OR Apache-2.0"
 description = "Differentiable programming for Rust"
