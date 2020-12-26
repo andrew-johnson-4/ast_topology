@@ -8,6 +8,12 @@
 
 Differentiable programming for Rust
 
+# Contributions
+
+Unless you explicitly state otherwise, any contribution intentionally submitted
+for inclusion in ast_topology by you, shall be dual licensed under the MIT and
+Apache 2.0 license without any additional terms or conditions.
+
 # License
 
 Code is dual licensed under either Apache or MIT Licenses.
