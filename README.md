@@ -8,6 +8,8 @@
 
 Differentiable programming for Rust
 
+This package is no more than sugar for existing Rust autograd libraries.
+
 # Contributions
 
 Unless you explicitly state otherwise, any contribution intentionally submitted
