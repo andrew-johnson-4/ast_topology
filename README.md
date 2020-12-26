@@ -1,6 +1,6 @@
 # ast_topology
 
-[![Crates.IO](https://img.shields.io/crates/v/ast_topology.svg)](https://crates.rs/crates/ast_topology)
+[![Crates.IO](https://img.shields.io/crates/v/ast_topology.svg)](https://crates.io/crates/ast_topology)
 [![Documentation](https://img.shields.io/badge/api-rustdoc-blue.svg)](https://docs.rs/ast_topology/)
 [![Build Nightly](https://github.com/andrew-johnson-4/ast_topology/workflows/BuildNightly/badge.svg)](https://github.com/andrew-johnson-4/ast_topology)
 [![Build](https://github.com/andrew-johnson-4/ast_topology/workflows/Build/badge.svg)](https://github.com/andrew-johnson-4/ast_topology)
