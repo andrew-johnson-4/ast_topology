@@ -1,6 +1,6 @@
 [package]
 name = "ast_topology"
-version = "0.0.4"
+version = "0.0.5"
 authors = ["Andrew <andrew@subarctic.org>"]
 license = "MIT OR Apache-2.0"
 description = "Differentiable programming for Rust"
@@ -11,4 +11,4 @@ documentation = "https://docs.rs/ast_topology/"
 keywords = ["differentiable","machine","learning","artificial","intelligience"]
 
 [dependencies]
-autograd = { version = "1.0", features = ["mkl"] }
+autograd = { version = "1.1", features = ["mkl"] }
